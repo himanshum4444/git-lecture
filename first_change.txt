@@ -7,3 +7,5 @@ Enter your details as specified.
 My name is _. My hometown is _. I currently reside in Hall _.
 
 After you're done entering these details, add this file to the staging area using `git add first_change.txt`.
+
+lets see how the things are going on.
